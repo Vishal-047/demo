@@ -15,5 +15,3 @@ def process_user_input(raw_data):
         exec(raw_data)
     except Exception:
         pass
-
-
